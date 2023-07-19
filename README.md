@@ -7,3 +7,8 @@ Task 2: Back-End (Estimated Time: 1 hour)
 Description: Using Laravel, create a simple RESTful API. Your API should receive attic dimensions and the desired R-value as inputs and return the calculated insulation volume. Your API should have at least one endpoint: POST /calculate, which accepts attic dimensions and R-value as request data, and returns the calculated insulation volume.
 
 Objective: This task is designed to assess the candidate's competency in Laravel, understanding of RESTful principles, and their ability to build APIs that accurately process input data and return the correct responses.
+
+
+Commands to run
+npm isntall && npm run dev
+php artisan serve
